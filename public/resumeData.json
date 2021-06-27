@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Nabeel",
+    "description":[
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc."    
+        ],
+    "image":"profilepic.jpg",
+    "bio":["I am a self-taught Full Stack Web Deveoper. I found passion for coding and web-Dev an d want to start a solid career in Tech & make awesome things with Tech "      ],
+    "contactmessage":"You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+    "email": "nabeelv27@gmail.com",
+    "phone": "+91 9072013210",
+    "github":"https://github.com/Nabeel-V",
+    "project":"https://github.com/Nabeel-V",
+    "resumedownload":"http://drive.com/",
+    "social":[
+
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/Nabeelv9",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nabeel-v/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/nabeel__muhammed",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Nabeel-V",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I know",
+    "education":[
+      {
+        "school":"A J K College Of Arts And Science",
+        "degree":"Bachelor Of Computer Application",
+        "graduated":"June 2021",
+        "description":
+        "I have studied core subjects like Data Structures, DBMS, Networking, Security, etc. I have also completed various online courses for Backend , Web , Mobile App Development, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"React Js",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"DBMS",
+        "level":"75%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Amazon Prime Clone",
+        "category": "I'ts an clone of Amazon Prime Video",
+        "image": "01.png",
+        "url": "http://nabeel-v.github.io/amazon-prime-clone/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "To analayz the Covid 19 data",
+        "image": "02.png",
+        "url": "https://github.com/Nabeel-V/react-covid19-tracker"
+      },
+      {
+        "title": "PY Shop",
+        "category": "Simple E-Commerce cart using Djano",
+        "image": "04.jpg",
+        "url": "https://github.com/Nabeel-V/E-Commerce-Cart"
+      },
+      {
+        "title": "Calculator",
+        "category": "Simple calulator Support basic mathamatic functions",
+        "image": "03.jpg",
+        "url": "http://nabeel-v.github.io/Calculator/"
+      }
+      
+    ]
+  }
+}
